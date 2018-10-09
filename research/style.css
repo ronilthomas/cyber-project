@@ -1,0 +1,51 @@
+#form_container{
+	border: 1px solid black;
+	width: 250px;
+	padding: 10px;
+	margin: auto;
+	margin-top: 75px;
+	border-radius: 5px;
+}
+
+.register_form{
+	margin: 5px 15px;
+	padding: 2px;
+}
+
+#success_block{
+	background-color: lightgreen;
+}
+
+a{
+	color: black;
+}
+
+#welhead{
+	margin-top: 150px;
+}
+
+#welbtns{
+	margin-top: 100px;
+}
+
+#welbtn{
+	margin:15px 40px; width:260px; padding:20px;
+}
+
+#mainbtns{
+	margin:40px; width:260px; padding:20px; margin-top: 40px;
+}
+
+.makecenter{
+	width: 700px;
+	margin: auto;
+	margin-top: 200px;
+}
+
+.hide{
+	display: none;
+}
+
+.show{
+	display: block;
+}
