@@ -13,6 +13,7 @@ This is one of my projects in cyber security. The application has a registration
 ## Login or Decryption
 
 * Hash is generated from the plaintext and converted to it's binary form
+* The required image is accessed according to the username
 * A python script converts the number of pixels needed into it's binary form
 * The binary values are compared with the binary form of the hash
 * The user is granted access if the values match
