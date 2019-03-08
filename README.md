@@ -15,4 +15,4 @@ This is one of my projects in cyber security. The application has a registration
 * Hash is generated from the plaintext and converted to it's binary form
 * A python script converts the number of pixels needed into it's binary form
 * The binary values are compared with the binary form of the hash
-* If the values match the user is granted access
+* The user is granted access if the values match
